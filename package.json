@@ -40,5 +40,8 @@
     "@expo/webpack-config": "^0.12.77",
     "css-loader": "^5.2.6",
     "ts-loader": "^9.2.3"
+  },
+  "engines":{
+    "node":"14.17.0"
   }
 }
