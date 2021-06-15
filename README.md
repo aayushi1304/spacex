@@ -30,4 +30,4 @@ SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-la
 
 ![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1273__OetAvBQCL.png)
 
-Developed By [Jasvinder Singh Sabharwal](https://github.com/jvsinghk), [Jennifer B](https://github.com/jenndroid)
+
